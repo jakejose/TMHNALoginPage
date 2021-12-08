@@ -1,7 +1,7 @@
 body {
     /* https://www.tutorialspoint.com/How-to-set-background-image-of-a-webpage */
     background-color: #3C589C;
-    background-image: url("../img/toyota-badge.jpeg");
+    background-image: url("../img/toyota-badge.jpeg") !important;
     /* background-image: url("/img/toyota-badge.jpeg"); */
       /* Full height */
   height: 100%;
