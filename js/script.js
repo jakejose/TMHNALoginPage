@@ -21,7 +21,7 @@ $(()=>{
     // https://developer.mozilla.org/en-US/docs/Web/API/Location/reload
     $('#logreg-forms .form-signin').submit(function(e){
         e.preventDefault();
-        window.location.replace('https://developer.mozilla.org/en-US/docs/Web/API/Location.reload');
+        window.location.replace('applications.html');
     });
     $('#logreg-forms .form-signup').submit(function(e){
         e.preventDefault();
